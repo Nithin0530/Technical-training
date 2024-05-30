@@ -36,15 +36,34 @@ h1 {
 ` .red`-> `.` is used to refer to class
 
 > cache reduces time to retrieve data
+
 #### Link
+
 [Proclink website](https://proclink.com/)
+
 #### Image
+
 ![image](./image.png)
 
 #### [squoosh](https://squoosh.app/) this website is used to compress images
-#### Table
-|rno| name|
-|---|-----|
-|1|pavan|
-|2| Nithin|
 
+#### Table
+
+| rno | name   |
+| --- | ------ |
+| 1   | pavan  |
+| 2   | Nithin |
+
+# JavaScript
+
+- 1/0 is infinity
+- number,string,objects are the datatypes
+  var t = null -> undefined , because it is a bug
+  ```javascript
+  let name = "pandu";
+  var roll = "11";
+  var roll = 11; // redeclaration and reassign is allowed
+  // let name = "dbvc"; re assign is not allowed
+  const id = 2;
+  // const id = 2; redeclaration and reassign is not allowed
+```
